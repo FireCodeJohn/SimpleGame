@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOX3cphv8t24X1ZZUjYsqs7/+tnmlCML+pXo6j51XVubC2AKKATulKmbBEJTKnHr1DgJQpYfpcQCzT+H5JjPwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\John\\Documents\\Visual Studio 2019\\KonicaServer\\KonicaServer\\KonicaServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
